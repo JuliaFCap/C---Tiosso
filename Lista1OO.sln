@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Livro", "Projeto Livro\Projeto Livro.csproj", "{1E4FA437-79D6-4C74-A9B9-0A2553FB0E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impressora_Exe03", "Impressora_Exe03\Impressora_Exe03.csproj", "{BFC4493A-8B58-4154-AAC4-B4D2F7514B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4FA437-79D6-4C74-A9B9-0A2553FB0E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4FA437-79D6-4C74-A9B9-0A2553FB0E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4FA437-79D6-4C74-A9B9-0A2553FB0E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4FA437-79D6-4C74-A9B9-0A2553FB0E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC4493A-8B58-4154-AAC4-B4D2F7514B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC4493A-8B58-4154-AAC4-B4D2F7514B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC4493A-8B58-4154-AAC4-B4D2F7514B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC4493A-8B58-4154-AAC4-B4D2F7514B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F07C54A-E6F4-491C-892C-DEDB4A319BA2}
+	EndGlobalSection
+EndGlobal
